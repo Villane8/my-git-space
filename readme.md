@@ -1,2 +1,3 @@
 ## This my git stuff ##
-I am  learning git and i pretty much love it by now
+This is the adv web class. 
+This week we are learning git.
